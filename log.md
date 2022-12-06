@@ -1,4 +1,6 @@
 # 100 Days Of Code - Log
+**Commitment Tweet Link:** [Tweet](https://twitter.com/HarshKakran/status/1600025669437571073)
+****
 
 [//]: # (### Day 0: February 30, 2016 &#40;Example 1&#41;)
 
@@ -52,3 +54,6 @@
 **Thoughts:** 
 
 **Link to work:** [Calculator App](http://www.example.com)
+**Tweet Link:** 
+
+****
