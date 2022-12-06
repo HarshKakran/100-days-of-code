@@ -2,58 +2,18 @@
 **Commitment Tweet Link:** [Tweet](https://twitter.com/HarshKakran/status/1600025669437571073)
 ****
 
-[//]: # (### Day 0: February 30, 2016 &#40;Example 1&#41;)
+### Day 1: December 6th, 2022
 
-[//]: # (##### &#40;delete me or comment me out&#41;)
+**Today's Progress**: Revised DSA notes, attempted 3 Medium lvl leet code questions, and studied DBMS.
 
-[//]: # ()
-[//]: # (**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.)
+**Thoughts:** This is the fist day of the challenge, I am quite motivated to start the challenge. Tried some Linked List questions, was able to solve them in very less time. Feeling confident because I touched the DSA after so long and was able to solve these questions quite easily.
 
-[//]: # ()
-[//]: # (**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.)
+**Link to work:** 
+-   [Odd Even LinkedList](https://leetcode.com/problems/odd-even-linked-list/)
+- [Split LinkedList in parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)
+- [Rotate List](https://leetcode.com/problems/rotate-list/description/)
+- [Git Commit](https://github.com/HarshKakran/dsa_practice/commit/a0a985b5bd004a0942d0e04d89173a9e47940ff6?diff=unified)
 
-[//]: # ()
-[//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
-
-[//]: # ()
-[//]: # (### Day 0: February 30, 2016 &#40;Example 2&#41;)
-
-[//]: # (##### &#40;delete me or comment me out&#41;)
-
-[//]: # ()
-[//]: # (**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.)
-
-[//]: # ()
-[//]: # (**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.)
-
-[//]: # ()
-[//]: # (**Link&#40;s&#41; to work**: [Calculator App]&#40;http://www.example.com&#41;)
-
-[//]: # ()
-[//]: # ()
-[//]: # (### Day 1: June 27, Monday)
-
-[//]: # ()
-[//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
-
-[//]: # ()
-[//]: # (**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.)
-
-[//]: # ()
-[//]: # (**Link&#40;s&#41; to work**)
-
-[//]: # (1. [Find the Longest Word in a String]&#40;https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string&#41;)
-
-[//]: # (2. [Title Case a Sentence]&#40;https://www.freecodecamp.com/challenges/title-case-a-sentence&#41;)
-
-
-### Day 0: December 6th, 2022
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** [Calculator App](http://www.example.com)
-**Tweet Link:** 
+**Tweet Link:** [Day1](https://twitter.com/HarshKakran/status/1600082762324619264)
 
 ****
